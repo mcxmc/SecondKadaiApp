@@ -14,6 +14,7 @@
 		95E9FD0A20FA615200A75E49 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95E9FD0820FA615200A75E49 /* LaunchScreen.storyboard */; };
 		95E9FD1520FA615200A75E49 /* SecondKadaiAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E9FD1420FA615200A75E49 /* SecondKadaiAppTests.swift */; };
 		95E9FD2020FA615200A75E49 /* SecondKadaiAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E9FD1F20FA615200A75E49 /* SecondKadaiAppUITests.swift */; };
+		95E9FD2E20FA629100A75E49 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E9FD2D20FA629100A75E49 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		95E9FD1B20FA615200A75E49 /* SecondKadaiAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecondKadaiAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		95E9FD1F20FA615200A75E49 /* SecondKadaiAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondKadaiAppUITests.swift; sourceTree = "<group>"; };
 		95E9FD2120FA615200A75E49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		95E9FD2D20FA629100A75E49 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				95E9FD0620FA615200A75E49 /* Assets.xcassets */,
 				95E9FD0820FA615200A75E49 /* LaunchScreen.storyboard */,
 				95E9FD0B20FA615200A75E49 /* Info.plist */,
+				95E9FD2D20FA629100A75E49 /* ResultViewController.swift */,
 			);
 			path = SecondKadaiApp;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				95E9FD0220FA615100A75E49 /* ViewController.swift in Sources */,
 				95E9FD0020FA615100A75E49 /* AppDelegate.swift in Sources */,
+				95E9FD2E20FA629100A75E49 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
